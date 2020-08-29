@@ -13,7 +13,8 @@
      |__index.html
     instructions.md
     greeting.md
-    ```
+```
+
 1) From the command line, add the line "Hello there!!" to your `greeting.md` file
 1) If it's working time to commit! ACP your code and push it to your master branch!
 1) From the command line `code .` your repo.
